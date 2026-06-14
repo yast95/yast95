@@ -1,19 +1,19 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff006e,50:8338ec,100:3a86ff&height=200&section=header&text=CyberDev%20/%20Full%20Stack%20Engineer&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Lua%20%7C%20Python%20%7C%20JS%20%7C%20Roblox%20%7C%20AI%20%7C%20C%23%20%7C%20C%2B%2B&descSize=16&descAlignY=55" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff006e,50:8338ec,100:3a86ff&height=200&section=header&text=as95%20/%20Full%20Stack%20Engineer&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Currently%20focused%20on%20Lua%20%26%20Roblox%20%F0%9F%8E%AE&descSize=16&descAlignY=55" />
 
 <br>
 
 <!-- Profile Views Counter -->
-<img src="https://komarev.com/ghpvc/?username=ton-pseudo&label=Profile%20Views&color=ff006e&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/ton-pseudo?color=8338ec&label=Followers&style=for-the-badge" />
-<img src="https://img.shields.io/github/stars/ton-pseudo?color=3a86ff&label=Stars&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=yast95&label=Profile%20Views&color=ff006e&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/yast95?color=8338ec&label=Followers&style=for-the-badge" />
+<img src="https://img.shields.io/github/stars/yast95?color=3a86ff&label=Stars&style=for-the-badge" />
 
 <br><br>
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF006E&center=true&vCenter=true&width=600&lines=Scripting+Roblox+%F0%9F%8E%AE;IA+%26+Machine+Learning+%F0%9F%A4%96;Full+Stack+Developer+%F0%9F%92%BB;Lua+%7C+Python+%7C+JS+%7C+C%23+%7C+C%2B%2B+%E2%9A%A1;Always+learning+new+things+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF006E&center=true&vCenter=true&width=600&lines=Currently+coding+in+Lua+%F0%9F%8E%AE;Roblox+Scripting+%26+Exploits+%E2%9A%A1;AI+Developer+%F0%9F%A4%96;Full+Stack+Engineer+%F0%9F%92%BB;Python+%7C+JS+%7C+C%23+%7C+C%2B%2B+%F0%9F%94%A5;Building+Aether+Hub+%26+Nova+Hub+%F0%9F%9A%80" />
 
 <br><br>
 
@@ -25,10 +25,17 @@
 
 <div align="center">
 
+<!-- Currently focused on -->
+
+> ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="20"> Currently focused on **Lua** & **Roblox Scripting** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="20">
+
+<br>
+
 <!-- Languages -->
 <h4>💻 Languages</h4>
 
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white&labelColor=2C2D72)
+![Luau](https://img.shields.io/badge/Luau-00A2FF?style=for-the-badge&logo=roblox&logoColor=white&labelColor=00A2FF)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=3178C6)
@@ -42,7 +49,6 @@
 
 ![Roblox](https://img.shields.io/badge/Roblox-000000?style=for-the-badge&logo=roblox&logoColor=white&labelColor=000000)
 ![Roblox Studio](https://img.shields.io/badge/Roblox%20Studio-D01012?style=for-the-badge&logo=robloxstudio&logoColor=white&labelColor=D01012)
-![Luau](https://img.shields.io/badge/Luau-00A2FF?style=for-the-badge&logo=roblox&logoColor=white&labelColor=00A2FF)
 
 <br>
 
@@ -101,12 +107,12 @@
 <tr>
 <td width="55%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ton-pseudo&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF006E&icon_color=8338EC&text_color=FFFFFF&ring_color=3A86FF&card_width=500" />
+<img src="https://github-readme-stats.vercel.app/api?username=yast95&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF006E&icon_color=8338EC&text_color=FFFFFF&ring_color=3A86FF&card_width=500" />
 
 </td>
 <td width="45%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ton-pseudo&layout=donut&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF006E&text_color=FFFFFF&icon_color=3A86FF&langs_count=8&card_width=320" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yast95&layout=donut&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF006E&text_color=FFFFFF&icon_color=3A86FF&langs_count=8&card_width=320" />
 
 </td>
 </tr>
@@ -115,12 +121,12 @@
 <br>
 
 <!-- Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ton-pseudo&theme=radical&hide_border=true&background=0D1117&stroke=FF006E&ring=8338EC&fire=3A86FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF006E&sideLabels=8338EC&dates=FFFFFF" width="85%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yast95&theme=radical&hide_border=true&background=0D1117&stroke=FF006E&ring=8338EC&fire=3A86FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF006E&sideLabels=8338EC&dates=FFFFFF" width="85%" />
 
 <br><br>
 
 <!-- Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=ton-pseudo&theme=radical&no-frame=true&row=1&column=7&margin-w=10&margin-h=10" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=yast95&theme=radical&no-frame=true&row=1&column=7&margin-w=10&margin-h=10" width="100%" />
 
 </div>
 
@@ -130,52 +136,61 @@
 
 <div align="center">
 
-<!-- Replace with your actual repositories -->
-
-<a href="https://github.com/ton-pseudo/ton-projet-1">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ton-pseudo&repo=ton-projet-1&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF006E&icon_color=3A86FF&text_color=FFFFFF" />
+<a href="https://github.com/yast95/Aether-Hub">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=yast95&repo=Aether-Hub&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF006E&icon_color=3A86FF&text_color=FFFFFF" />
 </a>
 &nbsp;
-<a href="https://github.com/ton-pseudo/ton-projet-2">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ton-pseudo&repo=ton-projet-2&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF006E&icon_color=3A86FF&text_color=FFFFFF" />
+<a href="https://github.com/yast95/Nova-Hub">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=yast95&repo=Nova-Hub&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF006E&icon_color=3A86FF&text_color=FFFFFF" />
 </a>
 
 </div>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" width="30"> Activity & Contributions
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Brain.png" width="30"> My AI
+
+<div align="center">
+
+<a href="https://aks-ai.lovable.app/">
+<img src="https://img.shields.io/badge/AKS%20AI-My%20Custom%20AI%20Assistant-FF006E?style=for-the-badge&logo=openai&logoColor=white&labelColor=0D1117" />
+</a>
+
+> *y.as95's AI — Built with love and machine learning* 🤖
+
+</div>
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Fire.png" width="30"> Activity & Contributions
 
 <div align="center">
 
 <!-- GitHub Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ton-pseudo&bg_color=0D1117&color=FFFFFF&line=FF006E&point=3A86FF&area=true&area_color=8338EC&hide_border=true&custom_title=Contribution%20Graph" width="95%" />
-
-<br><br>
-
-<!-- Snake Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ton-pseudo/ton-pseudo/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ton-pseudo/ton-pseudo/output/github-snake.svg" />
-  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/ton-pseudo/ton-pseudo/output/github-snake.svg" width="95%" />
-</picture>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yast95&bg_color=0D1117&color=FFFFFF&line=FF006E&point=3A86FF&area=true&area_color=8338EC&hide_border=true&custom_title=yas95's%20Contribution%20Graph" width="95%" />
 
 </div>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="30"> Connect With Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="30"> Connect With yast95
 
 <div align="center">
 
 <!-- Social Badges -->
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2)](https://discord.gg/tondiscord)
-[![Twitter/X](https://img.shields.io/badge/Twitter%20/%20X-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=000000)](https://x.com/tonpseudo)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=FF0000)](https://youtube.com/@tonpseudo)
-[![Roblox](https://img.shields.io/badge/Roblox-000000?style=for-the-badge&logo=roblox&logoColor=white&labelColor=000000)](https://www.roblox.com/users/tonid/profile)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335)](mailto:tonemail@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-Join%20y.as95's%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2)](https://discord.gg/YDWM2h2TbA)
+[![Twitter/X](https://img.shields.io/badge/Twitter%20/%20X-%40yast95-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=000000)](https://x.com/yast95)
+[![YouTube](https://img.shields.io/badge/YouTube-%40Akazhubs-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=FF0000)](https://www.youtube.com/@Akazhubs)
+[![Roblox](https://img.shields.io/badge/Roblox-yast95-000000?style=for-the-badge&logo=roblox&logoColor=white&labelColor=000000)](https://www.roblox.com/fr/users/9330117107/profile)
 
 <br><br>
+
+<!-- Thumbnail -->
+<p align="center">
+  <img src="https://img.shields.io/badge/%E2%9A%A1%20as95%20%E2%9A%A1-Full%20Stack%20Engineer%20%7C%20Lua%20%7C%20Roblox%20%7C%20AI-0D1117?style=for-the-badge&logoColor=FF006E&labelColor=0D1117&logo=javascript" width="70%" />
+</p>
+
+<br>
 
 <!-- Footer Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a86ff,50:8338ec,100:ff006e&height=120&section=footer&fontSize=24&fontColor=ffffff&animation=fadeIn" />
@@ -185,8 +200,6 @@
 ---
 
 <div align="center">
-
-<!-- Visitor Counter + Cool Quote -->
 
 ```
      ██╗      ██████╗  █████╗ ████████╗███████╗███████╗
@@ -202,25 +215,6 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/Made%20with%20❤️%20by-TonPseudo-FF006E?style=for-the-badge&logo=&logoColor=white&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Made%20with%20⚡%20by-as95-FF006E?style=for-the-badge&logo=&logoColor=white&labelColor=0D1117" />
 
 </div>
-
-<!--
-💡 INSTRUCTIONS POUR L'INSTALLATION :
-
-1. Remplace TOUTES les occurrences de "ton-pseudo" par ton vrai pseudo GitHub
-2. Remplace "ton-projet-1" et "ton-projet-2" par tes vrais repos
-3. Mets à jour les liens Discord, Twitter, YouTube, Roblox et Email
-4. Pour activer le snake animation :
-   - Crée un repo public nommé EXACTEMENT comme ton pseudo
-   - Va dans Actions > New workflow > configure
-   - Ajoute le workflow GitHub Snake (voir gist.github.com)
-5. Les stats s'afficheront automatiquement après les changements
-
-🎨 COULEURS DU THÈME :
-- Rose néon : #FF006E
-- Violet : #8338EC
-- Bleu : #3A86FF
-- Fond : #0D1117 (GitHub dark)
--->
