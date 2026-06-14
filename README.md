@@ -1,19 +1,19 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff006e,50:8338ec,100:3a86ff&height=200&section=header&text=as95%20/%20Full%20Stack%20Engineer&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Currently%20focused%20on%20Lua%20%26%20Roblox%20%F0%9F%8E%AE&descSize=16&descAlignY=55" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:ff006e,50:8338ec,100:3a86ff&amp;height=200&amp;section=header&amp;text=as95%20/%20Full%20Stack%20Engineer&amp;fontSize=42&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Currently%20focused%20on%20Lua%20%26%20Roblox%20%F0%9F%8E%AE&amp;descSize=16&amp;descAlignY=55" />
 
 <br>
 
 <!-- Profile Views Counter -->
-<img src="https://komarev.com/ghpvc/?username=yast95&label=Profile%20Views&color=ff006e&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/yast95?color=8338ec&label=Followers&style=for-the-badge" />
-<img src="https://img.shields.io/github/stars/yast95?color=3a86ff&label=Stars&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=yast95&amp;label=Profile%20Views&amp;color=ff006e&amp;style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/yast95?color=8338ec&amp;label=Followers&amp;style=for-the-badge" />
+<img src="https://img.shields.io/github/stars/yast95?color=3a86ff&amp;label=Stars&amp;style=for-the-badge" />
 
 <br><br>
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF006E&center=true&vCenter=true&width=600&lines=Currently+coding+in+Lua+%F0%9F%8E%AE;Roblox+Scripting+%26+Exploits+%E2%9A%A1;AI+Developer+%F0%9F%A4%96;Full+Stack+Engineer+%F0%9F%92%BB;Python+%7C+JS+%7C+C%23+%7C+C%2B%2B+%F0%9F%94%A5;Building+Aether+Hub+%26+Nova+Hub+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=24&amp;pause=1000&amp;color=FF006E&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Currently+coding+in+Lua+%F0%9F%8E%AE;Roblox+Scripting+%26+Exploits+%E2%9A%A1;AI+Developer+%F0%9F%A4%96;Full+Stack+Engineer+%F0%9F%92%BB;Python+%7C+JS+%7C+C%23+%7C+C%2B%2B+%F0%9F%94%A5;Building+Aether+Hub+%26+Nova+Hub+%F0%9F%9A%80" />
 
 <br><br>
 
@@ -21,85 +21,85 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="30"> Tech Stack
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="30" /> Tech Stack
 
 <div align="center">
 
 <!-- Currently focused on -->
 
-> ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="20"> Currently focused on **Lua** & **Roblox Scripting** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="20">
+> ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="20" /> Currently focused on <strong>Lua</strong> &amp; <strong>Roblox Scripting</strong> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="20" />
 
-<br>
+<br />
 
 <!-- Languages -->
 <h4>💻 Languages</h4>
 
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white&labelColor=2C2D72)
-![Luau](https://img.shields.io/badge/Luau-00A2FF?style=for-the-badge&logo=roblox&logoColor=white&labelColor=00A2FF)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=3178C6)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white&labelColor=239120)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=00599C)
+<img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&amp;logo=lua&amp;logoColor=white&amp;labelColor=2C2D72" alt="Lua" />
+<img src="https://img.shields.io/badge/Luau-00A2FF?style=for-the-badge&amp;logo=roblox&amp;logoColor=white&amp;labelColor=00A2FF" alt="Luau" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white&amp;labelColor=3776AB" alt="Python" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black&amp;labelColor=F7DF1E" alt="JavaScript" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white&amp;labelColor=3178C6" alt="TypeScript" />
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&amp;logo=csharp&amp;logoColor=white&amp;labelColor=239120" alt="CSharp" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&amp;logo=c%2B%2B&amp;logoColor=white&amp;labelColor=00599C" alt="CPlusPlus" />
 
-<br>
+<br /><br />
 
 <!-- Roblox & Game Dev -->
-<h4>🎮 Roblox & Game Development</h4>
+<h4>🎮 Roblox &amp; Game Development</h4>
 
-![Roblox](https://img.shields.io/badge/Roblox-000000?style=for-the-badge&logo=roblox&logoColor=white&labelColor=000000)
-![Roblox Studio](https://img.shields.io/badge/Roblox%20Studio-D01012?style=for-the-badge&logo=robloxstudio&logoColor=white&labelColor=D01012)
+<img src="https://img.shields.io/badge/Roblox-000000?style=for-the-badge&amp;logo=roblox&amp;logoColor=white&amp;labelColor=000000" alt="Roblox" />
+<img src="https://img.shields.io/badge/Roblox%20Studio-D01012?style=for-the-badge&amp;logo=robloxstudio&amp;logoColor=white&amp;labelColor=D01012" alt="Roblox Studio" />
 
-<br>
+<br /><br />
 
 <!-- AI / ML -->
 <h4>🤖 Artificial Intelligence</h4>
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=FF6F00)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=EE4C2C)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white&labelColor=412991)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=F7931E)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=013243)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=150458)
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&amp;logo=tensorflow&amp;logoColor=white&amp;labelColor=FF6F00" alt="TensorFlow" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&amp;logo=pytorch&amp;logoColor=white&amp;labelColor=EE4C2C" alt="PyTorch" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&amp;logo=openai&amp;logoColor=white&amp;labelColor=412991" alt="OpenAI" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&amp;logo=scikit-learn&amp;logoColor=white&amp;labelColor=F7931E" alt="scikit-learn" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&amp;logo=numpy&amp;logoColor=white&amp;labelColor=013243" alt="NumPy" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&amp;logo=pandas&amp;logoColor=white&amp;labelColor=150458" alt="Pandas" />
 
-<br>
+<br /><br />
 
 <!-- Web Frontend -->
 <h4>🌐 Frontend</h4>
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=000000)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1572B6)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=06B6D4)
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&amp;logo=react&amp;logoColor=black&amp;labelColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&amp;logo=nextdotjs&amp;logoColor=white&amp;labelColor=000000" alt="Next.js" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white&amp;labelColor=E34F26" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white&amp;labelColor=1572B6" alt="CSS3" />
+<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&amp;logo=tailwindcss&amp;logoColor=white&amp;labelColor=06B6D4" alt="Tailwind CSS" />
 
-<br>
+<br /><br />
 
 <!-- Backend & Database -->
-<h4>⚙️ Backend & Database</h4>
+<h4>⚙️ Backend &amp; Database</h4>
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=339933)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=000000)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=47A248)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=4479A1)
-![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white&labelColor=DD2C00)
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=white&amp;labelColor=339933" alt="Node.js" />
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&amp;logo=express&amp;logoColor=white&amp;labelColor=000000" alt="Express" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white&amp;labelColor=47A248" alt="MongoDB" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white&amp;labelColor=4479A1" alt="MySQL" />
+<img src="https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&amp;logo=firebase&amp;logoColor=white&amp;labelColor=DD0000" alt="Firebase" />
 
-<br>
+<br /><br />
 
 <!-- Tools -->
-<h4>🛠️ Tools & IDEs</h4>
+<h4>🛠️ Tools &amp; IDEs</h4>
 
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=007ACC)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white&labelColor=5C2D91)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=2496ED)
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&amp;logo=visualstudiocode&amp;logoColor=white&amp;labelColor=007ACC" alt="VS Code" />
+<img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&amp;logo=visualstudio&amp;logoColor=white&amp;labelColor=5C2D91" alt="Visual Studio" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white&amp;labelColor=F05032" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=181717" alt="GitHub" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white&amp;labelColor=2496ED" alt="Docker" />
 
 </div>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="30"> GitHub Stats
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="30" /> GitHub Stats
 
 <div align="center">
 
@@ -107,93 +107,101 @@
 <tr>
 <td width="55%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yast95&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF006E&icon_color=8338EC&text_color=FFFFFF&ring_color=3A86FF&card_width=500" />
+<img src="https://github-readme-stats.vercel.app/api?username=yast95&amp;show_icons=true&amp;theme=radical&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=FF006E&amp;icon_color=8338EC&amp;text_color=FFFFFF&amp;ring_color=3A86FF&amp;card_width=500" />
 
 </td>
 <td width="45%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yast95&layout=donut&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF006E&text_color=FFFFFF&icon_color=3A86FF&langs_count=8&card_width=320" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yast95&amp;layout=donut&amp;theme=radical&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=FF006E&amp;text_color=FFFFFF&amp;icon_color=3A86FF&amp;langs_count=8&amp;card_width=320" />
 
 </td>
 </tr>
 </table>
 
-<br>
+<br />
 
 <!-- Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yast95&theme=radical&hide_border=true&background=0D1117&stroke=FF006E&ring=8338EC&fire=3A86FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF006E&sideLabels=8338EC&dates=FFFFFF" width="85%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yast95&amp;theme=radical&amp;hide_border=true&amp;background=0D1117&amp;stroke=FF006E&amp;ring=8338EC&amp;fire=3A86FF&amp;currStreakNum=FFFFFF&amp;sideNums=FFFFFF&amp;currStreakLabel=FF006E&amp;sideLabels=8338EC&amp;dates=FFFFFF" width="85%" />
 
-<br><br>
+<br /><br />
 
 <!-- Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=yast95&theme=radical&no-frame=true&row=1&column=7&margin-w=10&margin-h=10" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=yast95&amp;theme=radical&amp;no-frame=true&amp;row=1&amp;column=7&amp;margin-w=10&amp;margin-h=10" width="100%" />
 
 </div>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="30"> Featured Projects
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="30" /> Featured Projects
 
 <div align="center">
 
 <a href="https://github.com/yast95/Aether-Hub">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=yast95&repo=Aether-Hub&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF006E&icon_color=3A86FF&text_color=FFFFFF" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=yast95&amp;repo=Aether-Hub&amp;theme=radical&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=FF006E&amp;icon_color=3A86FF&amp;text_color=FFFFFF" />
 </a>
 &nbsp;
 <a href="https://github.com/yast95/Nova-Hub">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=yast95&repo=Nova-Hub&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF006E&icon_color=3A86FF&text_color=FFFFFF" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=yast95&amp;repo=Nova-Hub&amp;theme=radical&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=FF006E&amp;icon_color=3A86FF&amp;text_color=FFFFFF" />
 </a>
 
 </div>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Brain.png" width="30"> My AI
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Brain.png" width="30" /> My AI
 
 <div align="center">
 
 <a href="https://aks-ai.lovable.app/">
-<img src="https://img.shields.io/badge/AKS%20AI-My%20Custom%20AI%20Assistant-FF006E?style=for-the-badge&logo=openai&logoColor=white&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/AKS%20AI-My%20Custom%20AI%20Assistant-FF006E?style=for-the-badge&amp;logo=openai&amp;logoColor=white&amp;labelColor=0D1117" alt="AKS AI" />
 </a>
 
-> *y.as95's AI — Built with love and machine learning* 🤖
+> <em>y.as95's AI — Built with love and machine learning</em> 🤖
 
 </div>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Fire.png" width="30"> Activity & Contributions
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Fire.png" width="30" /> Activity &amp; Contributions
 
 <div align="center">
 
 <!-- GitHub Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yast95&bg_color=0D1117&color=FFFFFF&line=FF006E&point=3A86FF&area=true&area_color=8338EC&hide_border=true&custom_title=yas95's%20Contribution%20Graph" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yast95&amp;bg_color=0D1117&amp;color=FFFFFF&amp;line=FF006E&amp;point=3A86FF&amp;area=true&amp;area_color=8338EC&amp;hide_border=true&amp;custom_title=yas95%27s%20Contribution%20Graph" width="95%" />
 
 </div>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="30"> Connect With yast95
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="30" /> Connect With yast95
 
 <div align="center">
 
 <!-- Social Badges -->
-[![Discord](https://img.shields.io/badge/Discord-Join%20y.as95's%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2)](https://discord.gg/YDWM2h2TbA)
-[![Twitter/X](https://img.shields.io/badge/Twitter%20/%20X-%40yast95-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=000000)](https://x.com/yast95)
-[![YouTube](https://img.shields.io/badge/YouTube-%40Akazhubs-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=FF0000)](https://www.youtube.com/@Akazhubs)
-[![Roblox](https://img.shields.io/badge/Roblox-yast95-000000?style=for-the-badge&logo=roblox&logoColor=white&labelColor=000000)](https://www.roblox.com/fr/users/9330117107/profile)
+<a href="https://discord.gg/YDWM2h2TbA">
+<img src="https://img.shields.io/badge/Discord-Join%20y.as95%27s%20Server-5865F2?style=for-the-badge&amp;logo=discord&amp;logoColor=white&amp;labelColor=5865F2" alt="Discord" />
+</a>
+<a href="https://x.com/yast95">
+<img src="https://img.shields.io/badge/Twitter%20/%20X-%40yast95-000000?style=for-the-badge&amp;logo=x&amp;logoColor=white&amp;labelColor=000000" alt="Twitter/X" />
+</a>
+<a href="https://www.youtube.com/@Akazhubs">
+<img src="https://img.shields.io/badge/YouTube-%40Akazhubs-FF0000?style=for-the-badge&amp;logo=youtube&amp;logoColor=white&amp;labelColor=FF0000" alt="YouTube" />
+</a>
+<a href="https://www.roblox.com/fr/users/9330117107/profile">
+<img src="https://img.shields.io/badge/Roblox-yast95-000000?style=for-the-badge&amp;logo=roblox&amp;logoColor=white&amp;labelColor=000000" alt="Roblox" />
+</a>
 
-<br><br>
+<br /><br />
 
 <!-- Thumbnail -->
 <p align="center">
-  <img src="https://img.shields.io/badge/%E2%9A%A1%20as95%20%E2%9A%A1-Full%20Stack%20Engineer%20%7C%20Lua%20%7C%20Roblox%20%7C%20AI-0D1117?style=for-the-badge&logoColor=FF006E&labelColor=0D1117&logo=javascript" width="70%" />
+  <img src="https://img.shields.io/badge/%E2%9A%A1%20as95%20%E2%9A%A1-Full%20Stack%20Engineer%20%7C%20Lua%20%7C%20Roblox%20%7C%20AI-0D1117?style=for-the-badge&amp;logo=javascript&amp;logoColor=FF006E&amp;labelColor=0D1117" width="70%" alt="as95 Thumbnail" />
 </p>
 
-<br>
+<br />
 
 <!-- Footer Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a86ff,50:8338ec,100:ff006e&height=120&section=footer&fontSize=24&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:3a86ff,50:8338ec,100:ff006e&amp;height=120&amp;section=footer&amp;fontSize=24&amp;fontColor=ffffff&amp;animation=fadeIn" />
 
 </div>
 
@@ -201,20 +209,20 @@
 
 <div align="center">
 
-```
+<pre>
      ██╗      ██████╗  █████╗ ████████╗███████╗███████╗
      ██║     ██╔═══██╗██╔══██╗╚══██╔══╝██╔════╝██╔════╝
      ██║     ██║   ██║███████║   ██║   █████╗  ███████╗
      ██║     ██║   ██║██╔══██║   ██║   ██╔══╝  ╚════██║
      ███████╗╚██████╔╝██║  ██║   ██║   ███████╗███████║
      ╚══════╝ ╚═════╝ ╚═╝  ╚═╝   ╚═╝   ╚══════╝╚══════╝
-```
+</pre>
 
-> *"Code is like humor. When you have to explain it, it's bad."*
+> <em>"Code is like humor. When you have to explain it, it's bad."</em><br />
 > — Cory House
 
-<br>
+<br />
 
-<img src="https://img.shields.io/badge/Made%20with%20⚡%20by-as95-FF006E?style=for-the-badge&logo=&logoColor=white&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Made%20with%20%E2%9A%A1%20by-as95-FF006E?style=for-the-badge&amp;logo=&amp;logoColor=white&amp;labelColor=0D1117" alt="Made by as95" />
 
 </div>
